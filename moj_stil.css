@@ -1,4 +1,6 @@
 body
 {
-    background-color: lightblue;
+    background-image: url("slika.jpg");
+    background-position-y: top;
+    background-position-x: right;
 }
