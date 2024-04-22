@@ -1,6 +1,6 @@
 body
 {
-    background-image: url("slika.jpg");
+    background-image: URL("slika.jpg");
     background-position-y: top;
     background-position-x: right;
     background-repeat: no-repeat;
