@@ -1,6 +1,7 @@
 body
 {
     background-image: URL("slika.jpg");
+    /*ovo mi sluzi pa poravnjanje slike gore desno i da se slika ne ponavlja*/
     background-position-y: top;
     background-position-x: right;
     background-repeat: no-repeat;
