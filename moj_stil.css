@@ -73,7 +73,7 @@ ul li{
     padding: 0px;
     color: blue;
     text-style: bold;
-    border-style-left: solid;
+    border-left-style: solid;
     border-left-color: blue;
     
 }
