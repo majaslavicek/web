@@ -82,10 +82,10 @@ ul li{
 ul li a: hover{
     text-decoration: none;
     border-left-color: #ccf;
-    background-color: red;
+    background-color: pink;
 }
 ul ul li a:hover{
     text-decoration: none;
     border-left-color: #ccf;
-    background-color: red;
+    background-color: pink;
 }
